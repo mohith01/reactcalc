@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/reactcalc/static/css/main.947b9d9f.chunk.css",
-    "main.js": "/reactcalc/static/js/main.99e7a51b.chunk.js",
-    "main.js.map": "/reactcalc/static/js/main.99e7a51b.chunk.js.map",
-    "runtime-main.js": "/reactcalc/static/js/runtime-main.f384a8ac.js",
-    "runtime-main.js.map": "/reactcalc/static/js/runtime-main.f384a8ac.js.map",
-    "static/js/2.6f8a4e58.chunk.js": "/reactcalc/static/js/2.6f8a4e58.chunk.js",
-    "static/js/2.6f8a4e58.chunk.js.map": "/reactcalc/static/js/2.6f8a4e58.chunk.js.map",
-    "index.html": "/reactcalc/index.html",
-    "static/css/main.947b9d9f.chunk.css.map": "/reactcalc/static/css/main.947b9d9f.chunk.css.map",
-    "static/js/2.6f8a4e58.chunk.js.LICENSE.txt": "/reactcalc/static/js/2.6f8a4e58.chunk.js.LICENSE.txt"
+    "main.css": "/www.nmsai.me/reactcalc/static/css/main.947b9d9f.chunk.css",
+    "main.js": "/www.nmsai.me/reactcalc/static/js/main.99e7a51b.chunk.js",
+    "main.js.map": "/www.nmsai.me/reactcalc/static/js/main.99e7a51b.chunk.js.map",
+    "runtime-main.js": "/www.nmsai.me/reactcalc/static/js/runtime-main.810e40ec.js",
+    "runtime-main.js.map": "/www.nmsai.me/reactcalc/static/js/runtime-main.810e40ec.js.map",
+    "static/js/2.6f8a4e58.chunk.js": "/www.nmsai.me/reactcalc/static/js/2.6f8a4e58.chunk.js",
+    "static/js/2.6f8a4e58.chunk.js.map": "/www.nmsai.me/reactcalc/static/js/2.6f8a4e58.chunk.js.map",
+    "index.html": "/www.nmsai.me/reactcalc/index.html",
+    "static/css/main.947b9d9f.chunk.css.map": "/www.nmsai.me/reactcalc/static/css/main.947b9d9f.chunk.css.map",
+    "static/js/2.6f8a4e58.chunk.js.LICENSE.txt": "/www.nmsai.me/reactcalc/static/js/2.6f8a4e58.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f384a8ac.js",
+    "static/js/runtime-main.810e40ec.js",
     "static/js/2.6f8a4e58.chunk.js",
     "static/css/main.947b9d9f.chunk.css",
     "static/js/main.99e7a51b.chunk.js"
